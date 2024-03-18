@@ -1,0 +1,24 @@
+[font]
+size = 13.5
+
+[font.normal]
+family = "Cartograph CF"
+style = "Regular"
+
+[font.italic]
+family = "Cartograph CF"
+style = "Regular Italic"
+
+[font.bold]
+family = "Cartograph CF"
+style = "Bold"
+
+[[keyboard.bindings]]
+chars = "\u001Bb"
+key = "Left"
+mods = "Alt"
+
+[[keyboard.bindings]]
+chars = "\u001Bf"
+key = "Right"
+mods = "Alt"
